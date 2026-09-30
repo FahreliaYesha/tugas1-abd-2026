@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `Indonesia palm oil - Supply chain data` |
+| Sumber | `Trase - Indonesia Palm Oil Supply Chain https://trase-website-revamp-b82958.netlify.app/open-data/datasets/supply-chains-indonesia-palm-oil?utm_source=chatgpt.com` |
+| Lisensi/ketentuan pakai | `Creative Commons CC BY 4.0 untuk charts, graphics, maps, dan representasi data pada platform Trase. Penggunaan untuk tujuan komersial perlu menghubungi Trase.` |
+| Ukuran | `> 1.000.000 baris` |
+| Periode data | `2013-2022` |
+| Unit analisis | `Aliran rantai pasok minyak kelapa sawit Indonesia berdasarkan tahun, negara produksi, jenis produk, dan indikator keberlanjutan` |
 
 ## Tempat Mencari Dataset
 
@@ -25,6 +25,7 @@ Pilih dataset Indonesia yang legal digunakan, dapat didokumentasikan sumbernya, 
 | [Hugging Face Datasets](https://huggingface.co/datasets) | Dataset publik yang dapat dicari berdasarkan topik, bahasa, atau ukuran. |
 | [Kaggle Datasets](https://www.kaggle.com/datasets) | Katalog dataset publik; periksa lisensi dan dokumentasi pembuatnya. |
 | [Google Dataset Search](https://datasetsearch.research.google.com/) | Mesin pencari untuk menemukan dataset dari berbagai portal. |
+| [Trase Open Data](https://trase.earth/open-data) | Menyediakan dataset rantai pasok berbagai komoditas dan indikator keberlanjutan, termasuk minyak kelapa sawit Indonesia. |
 
 ## Cara Memperoleh Data
 
