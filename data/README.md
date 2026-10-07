@@ -7,7 +7,7 @@ Isi informasi berikut sebelum Milestone 1.
 | Item | Isi |
 |---|---|
 | Nama dataset | `Indonesia palm oil - Supply chain data` |
-| Sumber | `Trase - Indonesia Palm Oil Supply Chain https://trase-website-revamp-b82958.netlify.app/open-data/datasets/supply-chains-indonesia-palm-oil?utm_source=chatgpt.com` |
+| Sumber | `Trase - Indonesia Palm Oil Supply Chain https://trase-website-revamp-b82958.netlify.app/open-data/datasets/supply-chains-indonesia-palm-oil` |
 | Lisensi/ketentuan pakai | `Creative Commons CC BY 4.0 untuk charts, graphics, maps, dan representasi data pada platform Trase. Penggunaan untuk tujuan komersial perlu menghubungi Trase.` |
 | Ukuran | `> 1.000.000 baris` |
 | Periode data | `2013-2022` |
